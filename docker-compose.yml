@@ -1,0 +1,9 @@
+services:
+  nist-acr:
+    build: .
+    image: nist-acr
+    container_name: nist-acr
+    volumes:
+      - ./data:/data:ro
+      - ./out:/out
+    tty: true

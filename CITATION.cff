@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this ACR pipeline or adapt it, please cite as follows."
+title: "ACR analysis pipeline for NIST 2015 Bell test data"
+version: 1.0.0
+
+authors:
+  - family-names: Ahmedov
+    given-names: Azat
+    orcid: "https://orcid.org/0009-0003-8417-2562"
+
+references:
+  - type: dataset
+    title: "Bell Test Research Software and Data"
+    publisher: National Institute of Standards and Technology
+    issued:
+      year: 2015
+    url: "https://www.nist.gov/pml/applied-physics-division/bell-test-research-software-and-data"
+    license: "NIST-PD"
+
+  - type: software
+    title: "calc_ch_from_hdf5.py"
+    publisher: National Institute of Standards and Technology
+    issued:
+      year: 2015
+    url: "https://www.nist.gov/pml/applied-physics-division/bell-test-research-software-and-data"
+    license: "NIST-PD"

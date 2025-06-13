@@ -1,0 +1,8 @@
+# numeric / data stack
+numpy>=1.26
+pandas>=2.2
+pyarrow>=15.0
+h5py>=3.10
+matplotlib>=3.8.2,<3.10
+scipy>=1.9
+seaborn>=0.13.2,<0.14
