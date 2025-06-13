@@ -1,4 +1,5 @@
 # nist-acr : ACR analysis pipeline for NIST 2015 Bell test data
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15654703.svg)](https://doi.org/10.5281/zenodo.15654703)
 
 This Docker image reproduces the **Architecture of Coherent Reality** (ACR) analysis workflow on the loophole-free NIST 2015 Bell test data. It converts native `.dat` files into Parquet, builds compact HDF5 "mini" files, and computes
 
